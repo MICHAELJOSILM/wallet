@@ -1,0 +1,6 @@
+streamlit
+PyJWT
+bcrypt
+pandas
+sqlalchemy
+openpyxl
